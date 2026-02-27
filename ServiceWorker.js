@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-EvoLink Arena-0.1.0";
 const contentToCache = [
     "Build/EvoArena.loader.js",
-    "Build/EvoArena.framework.js.br",
-    "Build/EvoArena.data.br",
-    "Build/EvoArena.wasm.br",
+    "Build/EvoArena.framework.js",
+    "Build/EvoArena.data",
+    "Build/EvoArena.wasm",
     "TemplateData/style.css"
 
 ];
